@@ -1,0 +1,45 @@
+D:\workspace\self\pm2App\app.js:1
+(function (exports, require, module, __filename, __dirname) { import Koa from 'koa'
+                                                                     ^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:323:23
+    at C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\dist\async.js:473:16
+    at next (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\dist\async.js:5329:29)
+D:\workspace\self\pm2App\app.js:1
+(function (exports, require, module, __filename, __dirname) { import Koa from 'koa'
+                                                                     ^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:323:23
+    at C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\dist\async.js:473:16
+    at next (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\dist\async.js:5329:29)
+D:\workspace\self\pm2App\app.js:1
+(function (exports, require, module, __filename, __dirname) { import Koa from 'koa'
+                                                                     ^^^
+
+SyntaxError: Unexpected identifier
+    at createScript (vm.js:80:10)
+    at Object.runInThisContext (vm.js:139:10)
+    at Module._compile (module.js:616:28)
+    at Object.Module._extensions..js (module.js:663:10)
+    at Module.load (module.js:565:32)
+    at tryModuleLoad (module.js:505:12)
+    at Function.Module._load (module.js:497:3)
+    at C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\lib\ProcessContainer.js:323:23
+    at C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\dist\async.js:473:16
+    at next (C:\Users\Lenovo\AppData\Roaming\npm\node_modules\pm2\node_modules\async\dist\async.js:5329:29)
